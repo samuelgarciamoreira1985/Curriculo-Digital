@@ -4,6 +4,7 @@ import Summary from './components/Summary/Summary'
 import Contact from './components/Contact/Contact'
 import Skills from './components/Skills/Skills'
 import Experiences from './components/Experiences/Experiences'
+import Formations from './components/Formations/Formations'
 // CSS
 import './App.css'
 
@@ -17,6 +18,7 @@ function App() {
       <Contact/>
       <Skills/>
       <Experiences/>
+      <Formations/>
     </div>
 
   )

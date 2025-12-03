@@ -17,7 +17,7 @@ const Skills = () => {
             <h3><FaBook  className="icon-skills"/> HABILIDADES</h3>
             <div className="details-skills">
                 <p><FaReact className="icon-detail-skills"/> React js</p>
-                <p><IoLogoJavascript className="icon-detail-skills"/> Javascript</p>
+                <p><IoLogoJavascript className="icon-detail-skills"/> JavaScript</p>
                 <p><FaHtml5  className="icon-detail-skills"/> HTML</p>
                 <p><FaCss3Alt  className="icon-detail-skills"/> CSS</p>
                 <p><FaGitAlt  className="icon-detail-skills"/> Git e GitHub</p>
