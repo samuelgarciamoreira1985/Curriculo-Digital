@@ -5,6 +5,7 @@ import Contact from './components/Contact/Contact'
 import Skills from './components/Skills/Skills'
 import Experiences from './components/Experiences/Experiences'
 import Formations from './components/Formations/Formations'
+import Footer from './components/Footer/Footer'
 // CSS
 import './App.css'
 
@@ -19,6 +20,7 @@ function App() {
       <Skills/>
       <Experiences/>
       <Formations/>
+      <Footer/>
     </div>
 
   )
